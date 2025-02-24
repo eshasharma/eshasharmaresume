@@ -35,6 +35,8 @@ A dedicated researcher with expertise in time series modeling, deep learning, re
 
 **Graduate Researcher, Computer Science Department** (August 2015 – July 2021)  
 - *Working with Dr Min Chi*
+- Integrated Food Bank Donation Prediction System: Developed a unified system combining time series analysis, meta-learning, and ensemble methods to forecast donations, enhancing the operational effectiveness of food banks.
+- Privacy Incidents Database: Built tools utilizing Natural Language Processing and machine learning to mine news and Twitter data for identifying privacy incidents.
 
 **Performigence Corporation**  
 *Student Research Intern* (June 2019 – August 2019)  
@@ -70,17 +72,6 @@ A dedicated researcher with expertise in time series modeling, deep learning, re
 
 ## Skills
 
-- **Machine Learning:** Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions
+- **Machine Learning:** Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Optimization, Recommendation Systems
 - **Programming:** Python, R, Java
 - **Data Technologies:** TensorFlow, Keras, SciPy, Scikit-Learn, NumPy, Tableau
-- **Software Engineering & Data Analysis**
-
----
-
-## Projects & Research
-
-- **Integrated Food Bank Donation Prediction System:**  
-  Developed a unified system combining time series analysis, meta-learning, and ensemble methods to forecast donations, enhancing the operational effectiveness of food banks.
-
-- **Privacy Incidents Database:**  
-  Built tools utilizing Natural Language Processing and machine learning to mine news and Twitter data for identifying privacy incidents.

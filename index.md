@@ -1,61 +1,36 @@
-# Esha Sharma
+# Esha Sharma  
+**Machine Learning & Data Analytics Researcher**  
+*Applied Scientist at Amazon*  
 
-**PhD in Computer Science: Machine Learning Scientist and Researcher**  
-*Applied Scientist at Amazon*
+---
 
-## Summary
+## SUMMARY  
+Researcher with expertise in time series modeling, deep learning, reinforcement learning, and ensemble predictions. Focused on building unified ML frameworks for predicting food bank donations. Currently pursuing a PhD on an RL-informed temporal hierarchical framework for meta-learning at North Carolina State University.
 
-Machine Learning researcher with expertise in time series modeling, deep learning, reinforcement learning, metalearning and ensemble prediction techniques. My work focuses on building unified machine learning frameworks to predict food bank donations — this research combats food insecurity by addressing unpredictable supply challenges in humanitarian food supply chains.
+---
 
-## Education
+## EDUCATION  
+- **PhD, Computer Science** – North Carolina State University (Expected Fall 2024)  
+  *Dissertation:* A Unified ML Framework for Predicting Food Bank Donations  
+- **MCS, Computer Science** – North Carolina State University (Aug 2021)  
+- **B.Tech, Computer Science** – Uttar Pradesh, India
 
-**North Carolina State University**  
-- **PhD in Computer Science** (Expected Fall 2024)  
-  - **Dissertation:** *A Unified Machine Learning Framework for Predicting Donations Made to Food Banks*  
-  - **Research Focus:** Leveraging a reinforcement learning (RL) informed temporal hierarchical framework for meta-learning to optimize predictive performance and operational efficiency in food bank donation forecasting.  
-  - **Advisor:** Dr. Min Chi  
-  - Research funded by the NSF, focusing on integrating time series models, meta-learning tools, and various ML methods for food bank operations.
-  - **Skills:** Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Optimization, Recommendation Systems
-- **Master of Computer Science** (August 2021)  
+---
 
-## Experience
+## EXPERIENCE  
+- **Amazon, Applied Scientist** (Since Sept 2021)  
+  - Lead advanced ML research supporting operational initiatives.  
+- **Performigence Corporation, Student Research Intern** (Jun–Aug 2019)  
+  - Preprocessed datasets and built predictive models for food bank donation forecasting.  
+- **Bank of America, Team Leader/Senior Technical Associate** (Jul 2011–Apr 2015)  
+  - Developed software to consolidate and validate data, enhancing reporting accuracy.
 
-**Amazon**  
-*Applied Scientist* (Since September 2021)  
-- Conduct advanced research in machine learning and data analytics to support operational initiatives.
+---
 
-**AIA Academy**  
-*Assistant Instructor / Teaching Assistant* (July 2021)  
-- Supported courses on Automated Learning and Data Analysis, Human-Computer Interaction, Algorithms for Data Guided Business Intelligence, and Time Series Analysis.
+## PUBLICATIONS  
+- **Data to Donations:** Towards In-Kind Food Donation Prediction across Two Coasts, IEEE GHTC, Oct 2021.  
+- **Using Twitter to Identify Privacy Information,** IEEE Symposium on Security and Privacy, May 2017.
+- **Learning a Privacy Incidents Database** Proceedings of the Hot Topics in Science of Security, Symposium and Bootcamp, ACM, 2017.
+- **How Software Users Recommend Tools to Each Other** IEEE Symposium on Visual Languages and Human-Centred Computing, October 2017.* 
 
-**Graduate Researcher, Computer Science Department** (August 2015 – July 2021)  
-- *Working with Dr Min Chi*
-- Integrated Food Bank Donation Prediction System: Developed a unified system combining time series analysis, meta-learning, and ensemble methods to forecast donations, enhancing the operational effectiveness of food banks.
-- Privacy Incidents Database: Built tools utilizing Natural Language Processing and machine learning to mine news and Twitter data for identifying privacy incidents.
 
-**Performigence Corporation**  
-*Student Research Intern* (June 2019 – August 2019)  
-- Preprocessed datasets from Los Angeles and North Carolina food banks.  
-- Analyzed data structures and built predictive models for donation forecasting.  
-- Contributed to designing an intelligent system for food bank operations.
-
-**Bank of America (Derivatives and FX Technology Teams)**  
-*Team Leader / Senior Technical Associate* (July 2011 – April 2015)  
-- Developed software to consolidate, standardize, and unify data across various systems.  
-- Created Tableau dashboards to visualize and identify potential data discrepancies.  
-- Implemented data validation tools and produced reports to improve operational accuracy.  
-- **Certification:** Completed Stratadigm Education certification and gained expertise in AWS Technical Essentials.
-
-## Publications
-
-1. **Data to Donations: Towards In-Kind Food Donation Prediction across Two Coasts**  
-   *Esha Sharma, Lauren Davis, Julie Ivy, Min Chi. IEEE GHTC, October 2021.*
-
-2. **Using Twitter to Identify Privacy Information (Poster)**  
-   *E. Sharma and J. Staddon. IEEE Symposium on Security and Privacy, May 2017.*
-
-3. **Learning a Privacy Incidents Database**  
-   *PK Murukannaiah, C. Dabral, K. Sheshadri, E. Sharma, J. Staddon. Proceedings of the Hot Topics in Science of Security, Symposium and Bootcamp, ACM, 2017.*
-
-4. **How Software Users Recommend Tools to Each Other**  
-   *C. Brown, J. Middleton, E. Sharma, E. Murphy-Hill. IEEE Symposium on Visual Languages and Human-Centred Computing, October 2017.*

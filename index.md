@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Resume
+---
 # Esha Sharma
 
 **Machine Learning & Data Analytics Researcher**, **Applied Scientist at Amazon**

@@ -7,7 +7,7 @@
 
 ## Summary
 
-A dedicated researcher with expertise in time series modeling, deep learning, reinforcement learning, metalearning and ensemble prediction techniques. My work focuses on building unified machine learning frameworks to predict food bank donations — this research that combats food insecurity by addressing unpredictable supply challenges in humanitarian food supply chains.
+Machine Learning researcher with expertise in time series modeling, deep learning, reinforcement learning, metalearning and ensemble prediction techniques. My work focuses on building unified machine learning frameworks to predict food bank donations — this research combats food insecurity by addressing unpredictable supply challenges in humanitarian food supply chains.
 
 ---
 

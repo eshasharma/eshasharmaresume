@@ -7,7 +7,7 @@
 
 ## Contact Information
 
-- **Email:** esha.sharma14@gmail.com
+- **Email:** esharma2@ncsu.edu
 - **GitHub:** https://github.com/eshasharma
 - **LinkedIn:** https://linkedin.com/in/eshasharma
 

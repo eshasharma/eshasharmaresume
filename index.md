@@ -1,7 +1,6 @@
 # Esha Sharma
 
 **Machine Learning & Data Analytics Researcher**, **Applied Scientist at Amazon**
-
 ---
 
 ## Contact Information
@@ -9,9 +8,7 @@
 - **Email:** esharma2@ncsu.edu
 - **GitHub:** https://github.com/eshasharma
 - **LinkedIn:** https://linkedin.com/in/eshasharma
-
 ---
-
 ## Summary
 
 Applied Scientist with extensive expertise in time series modeling, deep learning, reinforcement learning, and ensemble predictions. My research focuses on developing a unified machine learning framework to predict food bank donations—helping combat food insecurity by addressing the challenges of unpredictable supply in humanitarian food supply chains. Currently pursuing a PhD on an RL-informed temporal hierarchical framework for meta-learning.

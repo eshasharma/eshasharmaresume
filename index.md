@@ -36,7 +36,7 @@ Applied Scientist with extensive expertise in time series modeling, deep learnin
 *Applied Scientist* (Since September 2021)  
 - Lead advanced ML research initiatives to support operational decision-making and optimize predictive models.
 
-**Graduate Research Assistant, Computer Science Department** (August  - September 2021)  
+**Graduate Research Assistant, Computer Science Department, North Carolina State University** (August  - September 2021)  
 - *Skills:* Machine Learning, Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Meta-Learning
 
 **Performigence Corporation**  

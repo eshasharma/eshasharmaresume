@@ -1,6 +1,6 @@
 # Esha Sharma
 
-**PhD in Computer Science: Machine Learning and Data Analytics Researcher**  
+**PhD in Computer Science: Machine Learning Scientist and Researcher**  
 *Applied Scientist at Amazon*
 
 ---

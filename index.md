@@ -3,13 +3,9 @@
 **PhD in Computer Science: Machine Learning Scientist and Researcher**  
 *Applied Scientist at Amazon*
 
----
-
 ## Summary
 
 Machine Learning researcher with expertise in time series modeling, deep learning, reinforcement learning, metalearning and ensemble prediction techniques. My work focuses on building unified machine learning frameworks to predict food bank donations — this research combats food insecurity by addressing unpredictable supply challenges in humanitarian food supply chains.
-
----
 
 ## Education
 
@@ -18,10 +14,9 @@ Machine Learning researcher with expertise in time series modeling, deep learnin
   - **Dissertation:** *A Unified Machine Learning Framework for Predicting Donations Made to Food Banks*  
   - **Research Focus:** Leveraging a reinforcement learning (RL) informed temporal hierarchical framework for meta-learning to optimize predictive performance and operational efficiency in food bank donation forecasting.  
   - **Advisor:** Dr. Min Chi  
-  - Research funded by the NSF, focusing on integrating time series models, meta-learning tools, and various ML methods for food bank operations.  
+  - Research funded by the NSF, focusing on integrating time series models, meta-learning tools, and various ML methods for food bank operations.
+  - **Skills:** Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Optimization, Recommendation Systems
 - **Master of Computer Science** (August 2021)  
-
----
 
 ## Experience
 
@@ -51,9 +46,6 @@ Machine Learning researcher with expertise in time series modeling, deep learnin
 - Implemented data validation tools and produced reports to improve operational accuracy.  
 - **Certification:** Completed Stratadigm Education certification and gained expertise in AWS Technical Essentials.
 
-
----
-
 ## Publications
 
 1. **Data to Donations: Towards In-Kind Food Donation Prediction across Two Coasts**  
@@ -67,12 +59,3 @@ Machine Learning researcher with expertise in time series modeling, deep learnin
 
 4. **How Software Users Recommend Tools to Each Other**  
    *C. Brown, J. Middleton, E. Sharma, E. Murphy-Hill. IEEE Symposium on Visual Languages and Human-Centred Computing, October 2017.*
-
----
-
-## Skills
-
-- **Machine Learning:** Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Optimization, Recommendation Systems
-- **Programming:** Python, R, Java
-- **Data Technologies:** TensorFlow, Keras, SciPy, Scikit-Learn, NumPy, Tableau
-

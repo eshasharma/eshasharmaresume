@@ -31,6 +31,6 @@ Researcher with expertise in time series modeling, deep learning, reinforcement 
 - **Data to Donations:** Towards In-Kind Food Donation Prediction across Two Coasts, IEEE GHTC, Oct 2021.  
 - **Using Twitter to Identify Privacy Information,** IEEE Symposium on Security and Privacy, May 2017.
 - **Learning a Privacy Incidents Database** Proceedings of the Hot Topics in Science of Security, Symposium and Bootcamp, ACM, 2017.
-- **How Software Users Recommend Tools to Each Other** IEEE Symposium on Visual Languages and Human-Centred Computing, October 2017.* 
+- **How Software Users Recommend Tools to Each Other** IEEE Symposium on Visual Languages and Human-Centred Computing, October 2017.
 
 

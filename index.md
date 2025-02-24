@@ -1,7 +1,6 @@
 # Esha Sharma
 
-**Machine Learning & Data Analytics Researcher**  
-*Applied Scientist at Amazon*
+**Machine Learning & Data Analytics Researcher**, **Applied Scientist at Amazon**
 
 ---
 

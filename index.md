@@ -39,7 +39,7 @@ Applied Scientist with extensive expertise in time series modeling, deep learnin
 *Graduate Research Assistant* (August  - September 2021) 
 - Skills: Machine Learning, Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Meta-Learning
 
-**AIA Academy**  
+**AI Academy**  
 *Assistant Instructor / Teaching Assistant* (July 2021)  
 - Supported courses in Automated Learning and Data Analysis, Human-Computer Interaction, Algorithms for Data Guided Business Intelligence, and Time Series Analysis.
 

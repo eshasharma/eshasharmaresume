@@ -35,23 +35,19 @@ Applied Scientist with extensive expertise in time series modeling, deep learnin
 *Applied Scientist* (Since September 2021)  
 - Lead advanced ML research initiatives to support operational decision-making and optimize predictive models.
 
-**Graduate Research Assistant, Computer Science Department, North Carolina State University** (August  - September 2021)  
-- *Skills:* Machine Learning, Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Meta-Learning
-
-**Performigence Corporation**  
-*Student Research Intern* (June 2019 – August 2019)  
-- Obtained and preprocessed datasets from Los Angeles and North Carolina food banks.  
-- Analyzed data structures and built predictive models to forecast donations, enhancing food bank operations.
-
-**Bank of America (Derivatives and FX Technology Teams)**  
-*Team Leader / Senior Technical Associate* (July 2011 – April 2015)  
-- Developed software to consolidate, standardize, and validate data from various banking systems.  
-- Created Tableau dashboards for data visualization, identifying potential discrepancies.  
-- Implemented AWS-based solutions to generate insightful reports from consolidated data.
+**Computer Science Department, North Carolina State University** 
+*Graduate Research Assistant* (August  - September 2021) 
+- Skills: Machine Learning, Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Meta-Learning
 
 **AIA Academy**  
 *Assistant Instructor / Teaching Assistant* (July 2021)  
 - Supported courses in Automated Learning and Data Analysis, Human-Computer Interaction, Algorithms for Data Guided Business Intelligence, and Time Series Analysis.
+
+**Performigence Corporation**  
+*Student Research Intern* (June 2019 – August 2019)  
+
+**Bank of America (Derivatives and FX Technology Teams)**  
+*Team Leader / Senior Technical Associate* (July 2011 – April 2015)  
 
 ---
 

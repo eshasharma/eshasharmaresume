@@ -1,13 +1,21 @@
 # Esha Sharma
 
-**Machine Learning and Data Analytics Researcher**  
+**Machine Learning & Data Analytics Researcher**  
 *Applied Scientist at Amazon*
+
+---
+
+## Contact Information
+
+- **Email:** esha.sharma14@gmail.com
+- **GitHub:** https://github.com/eshasharma
+- **LinkedIn:** https://linkedin.com/in/eshasharma
 
 ---
 
 ## Summary
 
-A dedicated researcher with expertise in time series modeling, deep learning, reinforcement learning, and ensemble prediction techniques. My work focuses on building unified machine learning frameworks to predict food bank donations—research that combats food insecurity by addressing unpredictable supply challenges in humanitarian food supply chains.
+Applied Scientist with extensive expertise in time series modeling, deep learning, reinforcement learning, and ensemble predictions. My research focuses on developing a unified machine learning framework to predict food bank donations—helping combat food insecurity by addressing the challenges of unpredictable supply in humanitarian food supply chains. Currently pursuing a PhD on an RL-informed temporal hierarchical framework for meta-learning.
 
 ---
 
@@ -16,15 +24,9 @@ A dedicated researcher with expertise in time series modeling, deep learning, re
 **North Carolina State University**  
 - **PhD in Computer Science** (Expected Fall 2024)  
   - **Dissertation:** *A Unified Machine Learning Framework for Predicting Donations Made to Food Banks*  
-  - **Research Focus:** Leveraging a reinforcement learning (RL) informed temporal hierarchical framework for meta-learning to optimize predictive performance and operational efficiency in food bank donation forecasting.  
+  - **Research Focus:** Leveraging a reinforcement learning-informed temporal hierarchical framework for meta-learning to improve predictive accuracy and operational efficiency in food bank donation forecasting.  
   - **Advisor:** Dr. Min Chi  
-  - Research funded by the NSF, focusing on integrating time series models, meta-learning tools, and various ML methods for food bank operations.  
 - **Master of Computer Science** (August 2021)  
-- **Graduate Assistant, Computer Science Department** (August 2015 – [End Date])  
-- **NCSU Security and Privacy Research Lab**
-
-**B.Tech in Computer Science**  
-Uttar Pradesh, India
 
 ---
 
@@ -32,24 +34,25 @@ Uttar Pradesh, India
 
 **Amazon**  
 *Applied Scientist* (Since September 2021)  
-- Conduct advanced research in machine learning and data analytics to support operational initiatives.
+- Lead advanced ML research initiatives to support operational decision-making and optimize predictive models.
+
+**Graduate Research Assistant, Computer Science Department** (August  - September 2021)  
+- *Skills:* Machine Learning, Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions, Meta-Learning
 
 **Performigence Corporation**  
 *Student Research Intern* (June 2019 – August 2019)  
-- Preprocessed datasets from Los Angeles and North Carolina food banks.  
-- Analyzed data structures and built predictive models for donation forecasting.  
-- Contributed to designing an intelligent system for food bank operations.
+- Obtained and preprocessed datasets from Los Angeles and North Carolina food banks.  
+- Analyzed data structures and built predictive models to forecast donations, enhancing food bank operations.
 
 **Bank of America (Derivatives and FX Technology Teams)**  
 *Team Leader / Senior Technical Associate* (July 2011 – April 2015)  
-- Developed software to consolidate, standardize, and unify data across various systems.  
-- Created Tableau dashboards to visualize and identify potential data discrepancies.  
-- Implemented data validation tools and produced reports to improve operational accuracy.  
-- **Certification:** Completed Stratadigm Education certification and gained expertise in AWS Technical Essentials.
+- Developed software to consolidate, standardize, and validate data from various banking systems.  
+- Created Tableau dashboards for data visualization, identifying potential discrepancies.  
+- Implemented AWS-based solutions to generate insightful reports from consolidated data.
 
 **AIA Academy**  
 *Assistant Instructor / Teaching Assistant* (July 2021)  
-- Supported courses on Automated Learning and Data Analysis, Human-Computer Interaction, Algorithms for Data Guided Business Intelligence, and Time Series Analysis.
+- Supported courses in Automated Learning and Data Analysis, Human-Computer Interaction, Algorithms for Data Guided Business Intelligence, and Time Series Analysis.
 
 ---
 
@@ -66,22 +69,3 @@ Uttar Pradesh, India
 
 4. **How Software Users Recommend Tools to Each Other**  
    *C. Brown, J. Middleton, E. Sharma, E. Murphy-Hill. IEEE Symposium on Visual Languages and Human-Centred Computing, October 2017.*
-
----
-
-## Skills
-
-- **Machine Learning:** Time Series Models, Deep Learning, Reinforcement Learning, Ensemble Predictions
-- **Programming:** Python, R, Java
-- **Data Technologies:** TensorFlow, Keras, SciPy, Scikit-Learn, NumPy, Tableau
-- **Software Engineering & Data Analysis**
-
----
-
-## Projects & Research
-
-- **Integrated Food Bank Donation Prediction System:**  
-  Developed a unified system combining time series analysis, meta-learning, and ensemble methods to forecast donations, enhancing the operational effectiveness of food banks.
-
-- **Privacy Incidents Database:**  
-  Built tools utilizing Natural Language Processing and machine learning to mine news and Twitter data for identifying privacy incidents.

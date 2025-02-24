@@ -1,13 +1,13 @@
 # Esha Sharma
 
-**Machine Learning and Data Analytics Researcher**  
+**PhD in Computer Science: Machine Learning and Data Analytics Researcher**  
 *Applied Scientist at Amazon*
 
 ---
 
 ## Summary
 
-A dedicated researcher with expertise in time series modeling, deep learning, reinforcement learning, and ensemble prediction techniques. My work focuses on building unified machine learning frameworks to predict food bank donations—research that combats food insecurity by addressing unpredictable supply challenges in humanitarian food supply chains.
+A dedicated researcher with expertise in time series modeling, deep learning, reinforcement learning, metalearning and ensemble prediction techniques. My work focuses on building unified machine learning frameworks to predict food bank donations — this research that combats food insecurity by addressing unpredictable supply challenges in humanitarian food supply chains.
 
 ---
 
@@ -20,11 +20,6 @@ A dedicated researcher with expertise in time series modeling, deep learning, re
   - **Advisor:** Dr. Min Chi  
   - Research funded by the NSF, focusing on integrating time series models, meta-learning tools, and various ML methods for food bank operations.  
 - **Master of Computer Science** (August 2021)  
-- **Graduate Assistant, Computer Science Department** (August 2015 – [End Date])  
-- **NCSU Security and Privacy Research Lab**
-
-**B.Tech in Computer Science**  
-Uttar Pradesh, India
 
 ---
 
@@ -33,6 +28,13 @@ Uttar Pradesh, India
 **Amazon**  
 *Applied Scientist* (Since September 2021)  
 - Conduct advanced research in machine learning and data analytics to support operational initiatives.
+
+**AIA Academy**  
+*Assistant Instructor / Teaching Assistant* (July 2021)  
+- Supported courses on Automated Learning and Data Analysis, Human-Computer Interaction, Algorithms for Data Guided Business Intelligence, and Time Series Analysis.
+
+**Graduate Researcher, Computer Science Department** (August 2015 – July 2021)  
+- *Working with Dr Min Chi*
 
 **Performigence Corporation**  
 *Student Research Intern* (June 2019 – August 2019)  
@@ -47,9 +49,6 @@ Uttar Pradesh, India
 - Implemented data validation tools and produced reports to improve operational accuracy.  
 - **Certification:** Completed Stratadigm Education certification and gained expertise in AWS Technical Essentials.
 
-**AIA Academy**  
-*Assistant Instructor / Teaching Assistant* (July 2021)  
-- Supported courses on Automated Learning and Data Analysis, Human-Computer Interaction, Algorithms for Data Guided Business Intelligence, and Time Series Analysis.
 
 ---
 
